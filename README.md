@@ -1,0 +1,1 @@
+Hola aqui  consumi servicios web, API de OMDb para consultar peliculas y realizar consultas usando Postman, bibliotecas externas, gestion de archivos y excepciones. También  organize nuestro código en clases e interfaces, todo con un enfoque en el encapsulamiento y la orientación a objetos.
